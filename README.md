@@ -28,13 +28,13 @@ Os usuários podem adicionar Pokémon à lista de favoritos clicando no botão d
 Instalação
 Clone este repositório:
 
-concha
+
 
 Copiar código
 git clone https://github.com/AlexMatosWeb/pokedex.git
 Navegue até o diretório do projeto:
 
-concha
+
 
 Copiar código
 cd pokedex
